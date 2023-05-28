@@ -3,7 +3,6 @@ public class SimpleCircle {
     public static void main (String args[]) {
         double r = 2.5;
         
-        // replace the following two lines
         double area = Math.PI * r * r;
         double circumference = Math.PI * 2 * r;
   

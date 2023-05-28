@@ -1,7 +1,7 @@
 /**
  * A bunch of utility functions for Strings.
  *
- * @author Patrick Totzke
+ * @author Not me, I wrote the Javadoc parts ;)
  * @version 1.0
  */
 public class StringTools {
@@ -26,7 +26,6 @@ public class StringTools {
     return a;
   }
 
-  // TODO: add javadoc comment here
   /**
    * Reverses the order of characters in the input string.
    * <p>
@@ -46,7 +45,6 @@ public class StringTools {
     return rev;
   }
 
-  // TODO: add javadoc comment here
   /**
    * The main method of the program.
    * <p>

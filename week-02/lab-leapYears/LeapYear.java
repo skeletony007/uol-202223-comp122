@@ -7,7 +7,7 @@ public class LeapYear {
         if ((year % 4 != 0) || ((year % 100 == 0) && (year % 400 != 0))) {
 		leapYear = false;
 	}
-	// output
+	    // output
         System.out.println(leapYear);
     }
 }

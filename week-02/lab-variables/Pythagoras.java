@@ -1,4 +1,4 @@
-// add your import here
+// imports
 import java.lang.Math;
 public class Pythagoras {
     public static void main(String[] args) {

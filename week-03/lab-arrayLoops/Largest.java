@@ -1,8 +1,7 @@
 public class Largest {
     public static void main(String[] args) {
-        int n = Comp122.getInt("Length of Array:");  // don't change this one
+        int n = Comp122.getInt("Length of Array:");
 
-        // your code here...
         int[] myArray = new int[n];
 
         for (int i = 0; i < n; i++) {
@@ -17,7 +16,6 @@ public class Largest {
             }
         }
 
-        // end of your code...
         System.out.println(largestValue);
     }
 }

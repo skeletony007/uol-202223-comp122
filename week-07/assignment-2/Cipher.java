@@ -1,7 +1,7 @@
 /**
  * An interface that declares methods related to encoding/decoding.
  *
- * @author Patrick Totzke
+ * @author Not me
  */
 public interface Cipher {
 
