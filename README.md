@@ -9,5 +9,5 @@ You will gain an understanding of object-oriented programming methodology and de
 - Make use of Unified Modelling Language (UML) diagrams and other tools to document and test code.
 - Use common design patterns in your programs.
 
-*this branch is depreciated*
+**⚠️ this branch is depreciated**
 
