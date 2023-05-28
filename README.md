@@ -8,3 +8,6 @@ You will gain an understanding of object-oriented programming methodology and de
 - Describe the concept of object polymorphism in theory and demonstrate this concept in practice.
 - Make use of Unified Modelling Language (UML) diagrams and other tools to document and test code.
 - Use common design patterns in your programs.
+
+*this branch is depreciated*
+
